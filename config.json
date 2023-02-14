@@ -7,6 +7,6 @@
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
-    "web": "false"
+    "web": "true"
     
 }
