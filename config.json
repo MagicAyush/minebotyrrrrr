@@ -1,5 +1,5 @@
 {
-    "ip": "game5.falixserver.net",
+    "ip": "game5.falixserver.net:26846",
     "port": "26846",
     "password": "",
     "prefix": "",
@@ -7,6 +7,6 @@
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
-    "web": "true"
+    "web": "false"
     
 }
