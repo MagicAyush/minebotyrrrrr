@@ -3,7 +3,7 @@
     "port": "26846",
     "password": "",
     "prefix": "",
-    "login-enabled": "false",
+    "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
